@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,prisma,figma,git)](https://skillicons.dev)
 
-ou mais parecido com o dele (usando github-readme-tech-stack):
+<!-- ou mais parecido com o dele (usando github-readme-tech-stack):
 
 <a href="https://github.com/0l1v3rr/github-readme-tech-stack">
   <img src="https://github-readme-tech-stack.vercel.app/?line1=html5,css3,javascript,typescript&line2=react,nextjs,tailwindcss,nodejs,express&line3=mongodb,prisma,figma,netlify,vercel&line4=bootstrap&theme=dark&font=Poppins&fontWeight=600&fontSize=16&line1Align=center&line2Align=center&line3Align=center&line4Align=center" alt="technologies" />
-</a>
+</a> -->
