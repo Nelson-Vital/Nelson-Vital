@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕 Web and Mobile Development student at ISLA Gaia 🇵🇹
+📕 Web and Mobile Development student at ISLA Gaia 🇵🇹 <br/>
 ⭐️ Don't forget to leave a star!
 
 ## Tech Stack:
