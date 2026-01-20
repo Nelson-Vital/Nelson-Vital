@@ -1,5 +1,5 @@
 ## Hello, I'm Nelson.👋
-But people call me Júlio 
+🙋🏿‍♂️But people call me Júlio 
 
 <!--
 **Nelson-Vital/Nelson-Vital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,13 +45,12 @@ ou mais parecido com o dele (usando github-readme-tech-stack):
 ## GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Vital&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelson-Vital&theme=dracula&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Vital&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /><br/>
+  <img src="https://github-readme-stats-two-sigma-83.vercel.app/api/top-langs/?username=Nelson-Vital&theme=transparent&hide_border=true&count_private=true"/ >
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Vital&show_icons=true&theme=dracula" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelson-Vital&theme=dracula" />
-</p>
+<!-- <p align="center">
+  ![](https://github-readme-stats-two-sigma-83.vercel.app/api?username=Nelson-Vital&theme=merko&count_private=true&include_all_commits=true)<br/>
+  ![](https://streak-stats.demolab.com?user=Nelson-Vital&theme=merko)<br/>
+  ![](https://github-readme-stats-two-sigma-83.vercel.app/api/top-langs/?username=Nelson-Vital&theme=merko&layout=compact)
+</p> -->
