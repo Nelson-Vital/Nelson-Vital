@@ -28,7 +28,7 @@ Web developer in the making, based in Vila Nova de Gaia 🇵🇹, with a focus o
 | Project | What it is | Stack |
 |---|---|---|
 | [Athlytic](https://github.com/Nelson-Vital/Athlytic) | Physical activity tracking platform (final course project) | PHP, MySQL |
-| [Da Estação](https://github.com/Nelson-Vital/Da-Esta-o) · [live](https://strong-conkies-a61be2.netlify.app) | Marketplace for local products from small and medium producers | React, TypeScript |
+| [Da Estação](https://github.com/Nelson-Vital/Da-Esta-o) · [live](https://da-estacao.netlify.app) | Marketplace for local products from small and medium producers | React, TypeScript |
 
 ## GitHub Stats
 
