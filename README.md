@@ -1,56 +1,45 @@
-## Hello, I'm Nelson.👋
-🙋🏿‍♂️But people call me Júlio 
+## Hi, I'm Nelson 👋
+🙋🏿‍♂️ But people call me Júlio
 
-<!--
-**Nelson-Vital/Nelson-Vital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer in the making, based in Vila Nova de Gaia 🇵🇹, with a focus on **full-stack and back-end** development.
 
-Here are some ideas to get you started:
+- 🎓 Finishing my CTeSP in Web and Mobile Development at ISLA Gaia, and starting a degree in **Computer Engineering**
+- 🔭 Currently working on **[Athlytic](https://github.com/Nelson-Vital/Athlytic)**, a physical activity tracking platform built with PHP and MySQL
+- 🌱 Building strong programming fundamentals across web (PHP, JavaScript, React) and mobile (Flutter)
+- 🍽️ Coming from restaurant management, where I learned to lead teams, solve problems under pressure and keep things running
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-📕 Web and Mobile Development student at ISLA Gaia 🇵🇹 <br/>
-⭐️ Don't forget to leave a star!
-
-## Tech Stack:
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,prisma,figma,git)](https://skillicons.dev)
-
-ou mais parecido com o dele (usando github-readme-tech-stack):
-
-<a href="https://github.com/0l1v3rr/github-readme-tech-stack">
-  <img src="https://github-readme-tech-stack.vercel.app/?line1=html5,css3,javascript,typescript&line2=react,nextjs,tailwindcss,nodejs,express&line3=mongodb,prisma,figma,netlify,vercel&line4=bootstrap&theme=dark&font=Poppins&fontWeight=600&fontSize=16&line1Align=center&line2Align=center&line3Align=center&line4Align=center" alt="technologies" />
-</a> -->
+## Tech Stack
 
 <div align="center">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,bootstrap,css,js,mysql,php,react" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,php,mysql" />
     </a>
   </p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,visualstudio" />
     </a>
   </p>
 </div>
 
-## GitHub Stats:
+## Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Athlytic](https://github.com/Nelson-Vital/Athlytic) | Physical activity tracking platform (final course project) | PHP, MySQL |
+| [Da-Esta-o](https://github.com/Nelson-Vital/Da-Esta-o) | Marketplace for local products from small and medium producers | TypeScript |
+| [ToDoList](https://github.com/Nelson-Vital/ToDoList) | Mobile task management app | Flutter, Dart |
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Vital&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" /><br/>
-  <img src="https://github-readme-stats-two-sigma-83.vercel.app/api/top-langs/?username=Nelson-Vital&theme=transparent&hide_border=true&count_private=true"/ >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages" width="49%" />
+  </picture>
 </p>
-
-<!-- <p align="center">
-  ![](https://github-readme-stats-two-sigma-83.vercel.app/api?username=Nelson-Vital&theme=merko&count_private=true&include_all_commits=true)<br/>
-  ![](https://streak-stats.demolab.com?user=Nelson-Vital&theme=merko)<br/>
-  ![](https://github-readme-stats-two-sigma-83.vercel.app/api/top-langs/?username=Nelson-Vital&theme=merko&layout=compact)
-</p> -->
